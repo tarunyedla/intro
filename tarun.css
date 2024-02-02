@@ -1,0 +1,14 @@
+body{
+         background-repeat: no-repeat;
+         background-size: cover;
+        background-position: center;
+}
+
+h1{
+    color: coral;
+    text-align: center;
+}
+
+p{
+    color: white;
+}
